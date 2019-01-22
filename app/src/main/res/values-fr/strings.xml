@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AccessibilityEvent1</string>
+    <string name="textview">Seul le lecteur d’écran donne l’information</string>
+    <string name="value_area">La valeur du secteur</string>
+    <string name="is_en"> est </string>
+</resources>
+

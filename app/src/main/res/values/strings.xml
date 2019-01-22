@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">A11yEventApp</string>
+    <string name="app_name">AccessibilityEvent1</string>
+    <string name="textview">Only screenreader give information</string>
+    <string name="value_area">The value of area </string>
+    <string name="is_en">is</string>
 </resources>
